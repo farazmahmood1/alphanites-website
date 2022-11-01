@@ -31,6 +31,29 @@ import image29 from '../portfolio/alphaWeb20.png'
 import image30 from '../portfolio/alphaWeb21.png'
 import image31 from '../portfolio/alphaWeb22.png'
 import image32 from '../portfolio/alphaWeb23.png'
+import image33 from '../portfolio/alphaWeb24.png'
+import image34 from '../portfolio/alphaWeb25.png'
+import image35 from '../portfolio/alphaWeb26.png'
+import image36 from '../portfolio/alphaWeb27.png'
+import image37 from '../portfolio/alphaWeb28.png'
+import image38 from '../portfolio/alphaWeb29.png'
+import image39 from '../portfolio/alphaWeb30.png'
+import image40 from '../portfolio/alphaWeb31.png'
+import image41 from '../portfolio/alphaWeb32.png'
+import image42 from '../portfolio/alphaWeb33.png'
+import image43 from '../portfolio/alphaWeb34.png'
+import image44 from '../portfolio/alphaWeb35.png'
+import image45 from '../portfolio/alphaWeb36.png'
+import image46 from '../portfolio/alphaWeb37.png'
+import image47 from '../portfolio/alphaWeb38.png'
+import image48 from '../portfolio/alphaWeb39.png'
+import image49 from '../portfolio/alphaWeb40.png'
+import image50 from '../portfolio/alphaWeb41.png'
+import image51 from '../portfolio/alphaWeb42.png'
+import image52 from '../portfolio/alphaWeb43.png'
+import image53 from '../portfolio/alphaWeb44.png'
+import image54 from '../portfolio/alphaWeb45.png'
+import image55 from '../portfolio/alphaWeb46.png'
 
 const Potfolio = () => {
     const [index, setIndex] = useState(1)
@@ -55,7 +78,7 @@ const Potfolio = () => {
                         <img src={image25} alt width={350} height={250} />
                         <div className="overlay">
                             <div>
-                                <h4 className="text-white">ChicksINN</h4>
+                                <h4 className="text-dark">Essay on Demand</h4>
                                 <h6 className="text-dark"><span className='text-secondary'> category: </span> Website</h6>                            </div>
                         </div>
                     </div>
@@ -65,7 +88,7 @@ const Potfolio = () => {
                         <img src={image26} alt width={350} height={250} />
                         <div className="overlay">
                             <div>
-                                <h4 className="text-white">ChiscksINN</h4>
+                                <h4 className="text-dark">Essay on Demand</h4>
                                 <h6 className="text-dark"><span className='text-secondary'> category: </span> Application</h6>                            </div>
                         </div>
                     </div>
@@ -75,7 +98,7 @@ const Potfolio = () => {
                         <img src={image19} alt width={350} height={250} />
                         <div className="overlay">
                             <div>
-                                <h4 className="text-white">Khan Burger</h4>
+                                <h4 className="text-dark">Essay on Demand</h4>
                                 <h6 className="text-dark"><span className='text-secondary'> category: </span> Dashboard</h6>                            </div>
                         </div>
                     </div>
@@ -85,18 +108,18 @@ const Potfolio = () => {
                         <img src={image21} alt width={350} height={250} />
                         <div className="overlay">
                             <div>
-                                <h4 className="text-white">Khan Burger</h4>
+                                <h4 className="text-dark">Essay on Demand</h4>
                                 <h6 className="text-dark"><span className='text-secondary'> category: </span> Dashboard</h6>                            </div>
                         </div>
                     </div>
                 </div>
                 <div className="col-lg-4 col-sm-6">
                     <div className="project">
-                        <img src={image20} alt width={350} height={250} />
+                        <img src={image55} alt width={350} height={250} />
                         <div className="overlay">
                             <div>
-                                <h4 className="text-white">Khan Burger</h4>
-                                <h6 className="text-dark"><span className='text-secondary'> category: </span>Dashboard</h6>                            </div>
+                                <h4 className="text-white">Live Streamer</h4>
+                                <h6 className="text-dark"><span className='text-secondary'> category: </span>website</h6>                            </div>
                         </div>
                     </div>
                 </div>
@@ -122,11 +145,11 @@ const Potfolio = () => {
                 </div>
                 <div className="col-lg-4 col-sm-6">
                     <div className="project">
-                        <img src={image15} alt width={350} height={250} />
+                        <img src={image53} alt width={350} height={250} />
                         <div className="overlay">
                             <div>
-                                <h4 className="text-dark">Gym Panel</h4>
-                                <h6 className="text-dark"><span className='text-secondary'> category: </span> Dashboard</h6>                             </div>
+                                <h4 className="text-dark">Portfolio</h4>
+                                <h6 className="text-dark"><span className='text-white'> category: </span> website</h6>                             </div>
                         </div>
                     </div>
                 </div>
@@ -145,18 +168,18 @@ const Potfolio = () => {
                         <img src={image11} alt width={350} height={250} />
                         <div className="overlay">
                             <div>
-                                <h4 className="text-dark">Essay on Demand</h4>
+                                <h4 className="text-white">Essay on Demand</h4>
                                 <h6 className="text-dark"><span className='text-secondary'> category: </span> website</h6>                            </div>
                         </div>
                     </div>
                 </div>
                 <div className="col-lg-4 col-sm-6">
                     <div className="project">
-                        <img src={image13} alt width={350} height={250} />
+                        <img src={image51} alt width={350} height={250} />
                         <div className="overlay">
                             <div>
-                                <h4 className="text-dark">Essay on Demand</h4>
-                                <h6 className="text-dark"><span className='text-secondary'> category: </span> website</h6>                             </div>
+                                <h4 className="text-dark">Khan Burger Dashboard</h4>
+                                <h6 className="text-white"><span className='text-white'> category: </span> Dashboard</h6>                             </div>
                         </div>
                     </div>
                 </div>
@@ -166,7 +189,7 @@ const Potfolio = () => {
                         <div className="overlay">
                             <div>
                                 <h4 className="text-dark">Essay on Demand</h4>
-                                <h6 className="text-dark"><span className='text-secondary'> category: </span> website</h6>                              </div>
+                                <h6 className="text-white"><span className='text-secondary'> category: </span> website</h6>                              </div>
                         </div>
                     </div>
                 </div>
@@ -175,8 +198,8 @@ const Potfolio = () => {
                         <img src={image3} alt width={350} height={250} />
                         <div className="overlay">
                             <div>
-                                <h4 className="text-dark">Let's Love Quran</h4>
-                                <h6 className="text-dark"><span className='text-secondary'> category: </span> Application</h6>                            </div>
+                                <h4 className="text-white">Let's Love Quran</h4>
+                                <h6 className="text-white"><span className='text-secondary'> category: </span> Application</h6>                            </div>
                         </div>
                     </div>
                 </div>
@@ -185,8 +208,8 @@ const Potfolio = () => {
                         <img src={image10} alt width={350} height={250} />
                         <div className="overlay">
                             <div>
-                                <h4 className="text-dark">Essay on Demand</h4>
-                                <h6 className="text-dark"><span className='text-secondary'> category: </span> Dashboard</h6>                            </div>
+                                <h4 className="text-white">Gym Panel</h4>
+                                <h6 className="text-white"><span className='text-secondary'> category: </span> Dashboard</h6>                            </div>
                         </div>
                     </div>
                 </div>
@@ -205,8 +228,8 @@ const Potfolio = () => {
                         <img src={image16} alt width={350} height={250} />
                         <div className="overlay">
                             <div>
-                                <h4 className="text-white">Gymnasium</h4>
-                                <h6 className="text-dark"><span className='text-white'> category: </span> Website</h6>                            </div>
+                                <h4 className="text-dark">Chat Room</h4>
+                                <h6 className="text-white"><span className='text-white'> category: </span> Website</h6>                            </div>
                         </div>
                     </div>
                 </div>
@@ -215,19 +238,19 @@ const Potfolio = () => {
                         <img src={image18} alt width={350} height={250} />
                         <div className="overlay">
                             <div>
-                                <h4 className="text-white">Gymnasium</h4>
-                                <h6 className="text-dark"><span className='text-white'> category: </span> Website</h6>                              </div>
+                                <h4 className="text-dark">Essay On Demand</h4>
+                                <h6 className="text-white"><span className='text-white'> category: </span> Website</h6>                              </div>
                         </div>
                     </div>
                 </div>
 
                 <div className="col-lg-4 col-sm-6">
                     <div className="project">
-                        <img src={image17} alt width={350} height={250} />
+                        <img src={image49} alt width={350} height={250} />
                         <div className="overlay">
                             <div>
-                                <h4 className="text-white">Gymnasium</h4>
-                                <h6 className="text-dark"><span className='text-white'> category: </span> Website</h6>                              </div>
+                                <h4 className="text-dark">Khan Burger Dashboard</h4>
+                                <h6 className="text-white"><span className='text-white'> category: </span> Website</h6>                              </div>
                         </div>
                     </div>
                 </div>
@@ -246,7 +269,7 @@ const Potfolio = () => {
                         <img src={image22} alt width={350} height={250} />
                         <div className="overlay">
                             <div>
-                                <h4 className="text-dark">Portfolio</h4>
+                                <h4 className="text-dark">Content Writing</h4>
                                 <h6 className="text-dark"><span className='text-secondary'> category: </span> Website</h6>                            </div>
                         </div>
                     </div>
@@ -267,8 +290,8 @@ const Potfolio = () => {
                         <img src={image24} alt width={350} height={250} />
                         <div className="overlay">
                             <div>
-                                <h4 className="text-white">Social Media Viewer</h4>
-                                <h6 className="text-dark"><span className='text-white'> category: </span> Website</h6>                            </div>
+                                <h4 className="text-dark">Essay in Demand</h4>
+                                <h6 className="text-white"><span className='text-white'> category: </span> Website</h6>                            </div>
                         </div>
                     </div>
                 </div>
@@ -284,10 +307,10 @@ const Potfolio = () => {
                 </div>
                 <div className="col-lg-4 col-sm-6">
                     <div className="project">
-                        <img src={image10} alt width={350} height={250} />
+                        <img src={image47} alt width={350} height={250} />
                         <div className="overlay">
                             <div>
-                                <h4 className="text-dark">Essay on Demand</h4>
+                                <h4 className="text-dark">Gymanisum</h4>
                                 <h6 className="text-dark"><span className='text-secondary'> category: </span> Website</h6>                            </div>
                         </div>
                     </div>
@@ -303,6 +326,93 @@ const Potfolio = () => {
                     </div>
                 </div>
 
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image45} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Khan Burger</h4>
+                                <h6 className="text-dark"><span className='text-secondary'> category: </span> Application</h6>                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image43} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Gym Dashboard</h4>
+                                <h6 className="text-white"><span className='text-secondary'> category: </span> Application</h6>                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image41} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-white">Gym Web</h4>
+                                <h6 className="text-white"><span className='text-secondary'> category: </span> Application</h6>                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image39} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-white">Gym Web</h4>
+                                <h6 className="text-white"><span className='text-secondary'> category: </span> Application</h6>                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image37} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Gym Dashboard</h4>
+                                <h6 className="text-dark"><span className='text-secondary'> category: </span> Application</h6>                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image35} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Gym Dashboard</h4>
+                                <h6 className="text-white"><span className='text-secondary'> category: </span> Application</h6>                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image31} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Content Writing</h4>
+                                <h6 className="text-white"><span className='text-secondary'> category: </span> Application</h6>                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image29} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Essay Dashboard</h4>
+                                <h6 className="text-white"><span className='text-secondary'> category: </span> Application</h6>                            </div>
+                        </div>
+                    </div>
+                </div>
 
 
             </>)
@@ -413,248 +523,337 @@ const Potfolio = () => {
             )
         }
         else if (index === 3) {
-            return (
-                <>
-                    <div className="col-lg-4 col-sm-6">
-                        <div className="project">
-                            <img src={image10} alt width={350} height={250} />
-                            <div className="overlay">
-                                <div>
-                                    <h4 className="text-dark">Essay on Demand</h4>
-                                    <h6 className="text-dark"><span className='text-secondary'> category: </span> Website</h6>                                 </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-lg-4 col-sm-6">
-                        <div className="project">
-                            <img src={image11} alt width={350} height={250} />
-                            <div className="overlay">
-                                <div>
-                                    <h4 className="text-dark">Essay on Demand</h4>
-                                    <h6 className="text-dark"><span className='text-secondary'> category: </span> website</h6>                               </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-lg-4 col-sm-6">
-                        <div className="project">
-                            <img src={image12} alt width={350} height={250} />
-                            <div className="overlay">
-                                <div>
-                                    <h4 className="text-dark">Essay on Demand</h4>
-                                    <h6 className="text-dark"><span className='text-secondary'> category: </span> website</h6>                                 </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-lg-4 col-sm-6">
-                        <div className="project">
-                            <img src={image13} alt width={350} height={250} />
-                            <div className="overlay">
-                                <div>
-                                    <h4 className="text-dark">Essay on Demand</h4>
-                                    <h6 className="text-dark"><span className='text-secondary'> category: </span> website</h6>                                 </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-lg-4 col-sm-6">
-                        <div className="project">
-                            <img src={image14} alt width={350} height={250} />
-                            <div className="overlay">
-                                <div>
-                                    <h4 className="text-dark">Gym Panel</h4>
-                                    <h6 className="text-dark"><span className='text-secondary'> category: </span> Dashboard</h6>                              </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-lg-4 col-sm-6">
-                        <div className="project">
-                            <img src={image15} alt width={350} height={250} />
-                            <div className="overlay">
-                                <div>
-                                    <h4 className="text-dark">Gym Panel</h4>
-                                    <h6 className="text-dark"><span className='text-secondary'> category: </span> Dashboard</h6>                              </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-lg-4 col-sm-6">
-                        <div className="project">
-                            <img src={image16} alt width={350} height={250} />
-                            <div className="overlay">
-                                <div>
-                                    <h4 className="text-white">Gymnasium</h4>
-                                    <h6 className="text-dark"><span className='text-white'> category: </span> Website</h6>                                  </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-lg-4 col-sm-6">
-                        <div className="project">
-                            <img src={image17} alt width={350} height={250} />
-                            <div className="overlay">
-                                <div>
-                                    <h4 className="text-white">Gymnasium</h4>
-                                    <h6 className="text-dark"><span className='text-white'> category: </span> Website</h6>                                 </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-lg-4 col-sm-6">
-                        <div className="project">
-                            <img src={image18} alt width={350} height={250} />
-                            <div className="overlay">
-                                <div>
-                                    <h4 className="text-white">Gymnasium</h4>
-                                    <h6 className="text-dark"><span className='text-white'> category: </span> Website</h6>                              </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-lg-4 col-sm-6">
-                        <div className="project">
-                            <img src={image19} alt width={350} height={250} />
-                            <div className="overlay">
-                                <div>
-                                    <h4 className="text-white">Khan Burger</h4>
-                                    <h6 className="text-dark"><span className='text-secondary'> category: </span> Dashboard</h6>                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-lg-4 col-sm-6">
-                        <div className="project">
-                            <img src={image20} alt width={350} height={250} />
-                            <div className="overlay">
-                                <div>
-                                    <h4 className="text-white">Khan Burger</h4>
-                                    <h6 className="text-dark"><span className='text-secondary'> category: </span>Dashboard</h6>                                 </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-lg-4 col-sm-6">
-                        <div className="project">
-                            <img src={image21} alt width={350} height={250} />
-                            <div className="overlay">
-                                <div>
-                                    <h4 className="text-white">Khan Burger</h4>
-                                    <h6 className="text-dark"><span className='text-secondary'> category: </span> Dashboard</h6>                               </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-lg-4 col-sm-6">
-                        <div className="project">
-                            <img src={image22} alt width={350} height={250} />
-                            <div className="overlay">
-                                <div>
-                                    <h4 className="text-dark">Portfolio</h4>
-                                    <h6 className="text-dark"><span className='text-secondary'> category: </span> Website</h6>                                 </div>
-                            </div>
-                        </div>
-                    </div>
+            return (<>
 
-                    <div className="col-lg-4 col-sm-6">
-                        <div className="project">
-                            <img src={image24} alt width={350} height={250} />
-                            <div className="overlay">
-                                <div>
-                                    <h4 className="text-white">Social Media Viewer</h4>
-                                    <h6 className="text-dark"><span className='text-white'> category: </span> Website</h6>                                </div>
-                            </div>
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image25} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Essay on Demand</h4>
+                                <h6 className="text-dark"><span className='text-secondary'> category: </span> Website</h6>                            </div>
                         </div>
                     </div>
-                    <div className="col-lg-4 col-sm-6">
-                        <div className="project">
-                            <img src={image25} alt width={350} height={250} />
-                            <div className="overlay">
-                                <div>
-                                    <h4 className="text-white">ChicksINN</h4>
-                                    <h6 className="text-dark"><span className='text-secondary'> category: </span> Website</h6>                                  </div>
-                            </div>
+                </div>
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image26} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Essay on Demand</h4>
+                                <h6 className="text-dark"><span className='text-secondary'> category: </span> Application</h6>                            </div>
                         </div>
                     </div>
-                    <div className="col-lg-4 col-sm-6">
-                        <div className="project">
-                            <img src={image26} alt width={350} height={250} />
-                            <div className="overlay">
-                                <div>
-                                    <h4 className="text-white">ChiscksINN</h4>
-                                    <h6 className="text-dark"><span className='text-secondary'> category: </span> Application</h6>                                </div>
-                            </div>
+                </div>
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image19} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Essay on Demand</h4>
+                                <h6 className="text-dark"><span className='text-secondary'> category: </span> Dashboard</h6>                            </div>
                         </div>
                     </div>
+                </div>
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image21} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Essay on Demand</h4>
+                                <h6 className="text-dark"><span className='text-secondary'> category: </span> Dashboard</h6>                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image55} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-white">Live Streamer</h4>
+                                <h6 className="text-dark"><span className='text-secondary'> category: </span>website</h6>                            </div>
+                        </div>
+                    </div>
+                </div>
 
-                </>
-            )
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image14} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Gym Panel</h4>
+                                <h6 className="text-dark"><span className='text-secondary'> category: </span> Dashboard</h6>                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image53} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Portfolio</h4>
+                                <h6 className="text-dark"><span className='text-white'> category: </span> website</h6>                             </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image11} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-white">Essay on Demand</h4>
+                                <h6 className="text-dark"><span className='text-secondary'> category: </span> website</h6>                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image51} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Khan Burger Dashboard</h4>
+                                <h6 className="text-white"><span className='text-white'> category: </span> Dashboard</h6>                             </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image12} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Essay on Demand</h4>
+                                <h6 className="text-white"><span className='text-secondary'> category: </span> website</h6>                              </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image10} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-white">Gym Panel</h4>
+                                <h6 className="text-white"><span className='text-secondary'> category: </span> Dashboard</h6>                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image16} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Chat Room</h4>
+                                <h6 className="text-white"><span className='text-white'> category: </span> Website</h6>                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image18} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Essay On Demand</h4>
+                                <h6 className="text-white"><span className='text-white'> category: </span> Website</h6>                              </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image49} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Khan Burger Dashboard</h4>
+                                <h6 className="text-white"><span className='text-white'> category: </span> Website</h6>                              </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image22} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Content Writing</h4>
+                                <h6 className="text-dark"><span className='text-secondary'> category: </span> Website</h6>                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image24} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Essay on Demand</h4>
+                                <h6 className="text-white"><span className='text-white'> category: </span> Website</h6>                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image47} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-white">Gymanisum</h4>
+                                <h6 className="text-white"><span className='text-secondary'> category: </span> Website</h6>                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image45} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Khan Burger</h4>
+                                <h6 className="text-dark"><span className='text-secondary'> category: </span> dashboard</h6>                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image43} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Gym Dashboard</h4>
+                                <h6 className="text-white"><span className='text-secondary'> category: </span>dashboard</h6>                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image41} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-white">Gym Web</h4>
+                                <h6 className="text-white"><span className='text-secondary'> category: </span>website</h6>                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image39} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-white">Gym Web</h4>
+                                <h6 className="text-white"><span className='text-secondary'> category: </span>website</h6>                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image37} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Gym Dashboard</h4>
+                                <h6 className="text-dark"><span className='text-secondary'> category: </span> Dashboard</h6>                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image35} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Gym Dashboard</h4>
+                                <h6 className="text-white"><span className='text-secondary'> category: </span> Dashboard</h6>                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image31} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Content Writing</h4>
+                                <h6 className="text-white"><span className='text-secondary'> category: </span> Website</h6>                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image29} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Essay Dashboard</h4>
+                                <h6 className="text-white"><span className='text-secondary'> category: </span> Dashboard</h6>                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </>)
         }
         else if (index === 4) {
-            return (
-                <>
-                    <div className="col-lg-4 col-sm-6">
-                        <div className="project">
-                            <img src={image16} alt width={350} height={250} />
-                            <div className="overlay">
-                                <div>
-                                    <h4 className="text-white">Gymnasium</h4>
-                                    <h6 className="text-dark"><span className='text-white'> category: </span> Website</h6>                              </div>
-                            </div>
+            return (<>
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image55} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-white">Live Streamer</h4>
+                                <h6 className="text-dark"><span className='text-secondary'> category: </span>website</h6>                            </div>
                         </div>
                     </div>
-                    <div className="col-lg-4 col-sm-6">
-                        <div className="project">
-                            <img src={image18} alt width={350} height={250} />
-                            <div className="overlay">
-                                <div>
-                                    <h4 className="text-white">Gymnasium</h4>
-                                    <h6 className="text-dark"><span className='text-white'> category: </span> Website</h6>                                   </div>
-                            </div>
+                </div>
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image49} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Khan Burger Dashboard</h4>
+                                <h6 className="text-white"><span className='text-white'> category: </span>Dashboard</h6>                              </div>
                         </div>
                     </div>
-                    <div className="col-lg-4 col-sm-6">
-                        <div className="project">
-                            <img src={image17} alt width={350} height={250} />
-                            <div className="overlay">
-                                <div>
-                                    <h4 className="text-white">Gymnasium</h4>
-                                    <h6 className="text-dark"><span className='text-white'> category: </span> Website</h6>                              </div>
-                            </div>
+                </div>
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image24} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Essay on Demand</h4>
+                                <h6 className="text-white"><span className='text-white'> category: </span> Website</h6>                            </div>
                         </div>
                     </div>
-                    <div className="col-lg-4 col-sm-6">
-                        <div className="project">
-                            <img src={image14} alt width={350} height={250} />
-                            <div className="overlay">
-                                <div>
-                                    <h4 className="text-dark">Gym Panel</h4>
-                                    <h6 className="text-dark"><span className='text-secondary'> category: </span> Dashboard</h6>                               </div>
-                            </div>
+                </div>
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image37} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Gym Dashboard</h4>
+                                <h6 className="text-dark"><span className='text-secondary'> category: </span> Dashboard</h6>                            </div>
                         </div>
                     </div>
-                    <div className="col-lg-4 col-sm-6">
-                        <div className="project">
-                            <img src={image15} alt width={350} height={250} />
-                            <div className="overlay">
-                                <div>
-                                    <h4 className="text-dark">Gym Panel</h4>
-                                    <h6 className="text-dark"><span className='text-secondary'> category: </span> Dashboard</h6>                                 </div>
-                            </div>
+                </div>
+
+                <div className="col-lg-4 col-sm-6">
+                    <div className="project">
+                        <img src={image35} alt width={350} height={250} />
+                        <div className="overlay">
+                            <div>
+                                <h4 className="text-dark">Gym Dashboard</h4>
+                                <h6 className="text-white"><span className='text-secondary'> category: </span> Dashboard</h6>                            </div>
                         </div>
                     </div>
-                    <div className="col-lg-4 col-sm-6">
-                        <div className="project">
-                            <img src={image19} alt width={350} height={250} />
-                            <div className="overlay">
-                                <div>
-                                    <h4 className="text-white">Khan Burger</h4>
-                                    <h6 className="text-dark"><span className='text-secondary'> category: </span> Dashboard</h6>                              </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-lg-4 col-sm-6">
-                        <div className="project">
-                            <img src={image21} alt width={350} height={250} />
-                            <div className="overlay">
-                                <div>
-                                    <h4 className="text-white">Khan Burger</h4>
-                                    <h6 className="text-dark"><span className='text-secondary'> category: </span> Dashboard</h6>                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </>
-            )
+                </div>
+
+            </>)
         }
     }
     return (
@@ -671,10 +870,10 @@ const Potfolio = () => {
                         <p className='text-white'>What we've done</p>
                     </div>
                     <ul id="portfolio-flters" className="d-flex justify-content-end" data-aos="fade-up">
-                        <li data-filter="*" className={index == 1 ? "filter-active" : 'mt-0'} onClick={() => setIndex(1)}>All</li>
-                        <li data-filter=".filter-app" className={index == 2 ? "filter-active" : 'mt-0'} onClick={() => setIndex(2)}>App</li>
-                        <li data-filter=".filter-web" className={index == 3 ? "filter-active" : 'mt-0'} onClick={() => setIndex(3)}>Web</li>
-                        <li data-filter=".filter-web" className={index == 4 ? "filter-active" : 'mt-0'} onClick={() => setIndex(4)}>Products</li>
+                        <li data-filter="*" className={index === 1 ? "filter-active" : 'mt-0'} onClick={() => setIndex(1)}>All</li>
+                        <li data-filter=".filter-app" className={index === 2 ? "filter-active" : 'mt-0'} onClick={() => setIndex(2)}>App</li>
+                        <li data-filter=".filter-web" className={index === 3 ? "filter-active" : 'mt-0'} onClick={() => setIndex(3)}>Web</li>
+                        <li data-filter=".filter-web" className={index === 4 ? "filter-active" : 'mt-0'} onClick={() => setIndex(4)}>Products</li>
                     </ul>
                     <div className="row gy-5">
                         {returnData()}
